@@ -1,1 +1,2 @@
 # odin-recipes
+This is the first project of The Odin Project's Foundations course. I will be demonstrating what I have learnt by using the command line, git, and HTML to build a webpage for a restaurant.
